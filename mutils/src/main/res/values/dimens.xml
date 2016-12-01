@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 公共元素 -->
+    <dimen name="common_header_height">48dip</dimen>
+    <dimen name="common_content_height">48dip</dimen>
+    <dimen name="common_user_header">60dip</dimen>
+    <dimen name="common_user_header_small">40dip</dimen>
+    <dimen name="common_speedtest_height">40dip</dimen>
+    <dimen name="common_line_height">1.0dip</dimen>
+    <dimen name="common_swipe_width">160dip</dimen>
+    <dimen name="common_swipe_item_width">80dip</dimen>
+    <dimen name="common_header_with_image_height">230dip</dimen>
+    <dimen name="common_arrow_right_width">35dip</dimen>
+
+    <!-- 间隔/间距 -->
+    <dimen name="margin_small">5dip</dimen>
+    <dimen name="margin_normal">10dip</dimen>
+    <dimen name="margin_middle">15dip</dimen>
+    <dimen name="margin_large">20dip</dimen>
+    <dimen name="padding_small">5dip</dimen>
+    <dimen name="padding_normal">10dip</dimen>
+    <dimen name="padding_middle">15dip</dimen>
+    <dimen name="padding_large">20dip</dimen>
+    <dimen name="image_padding">13dip</dimen>
+
+    <!-- 字体大小 -->
+    <dimen name="textsize_small">13sp</dimen>
+    <dimen name="textsize_normal">15sp</dimen>
+    <dimen name="textsize_16sp">16sp</dimen>
+    <dimen name="textsize_middle">18sp</dimen>
+    <dimen name="textsize_large">20sp</dimen>
+    <dimen name="textsize_time">40sp</dimen>
+    <dimen name="textsize_time_small">22sp</dimen>
+
+    <!-- 主页 -->
+    <dimen name="home_margin">15dip</dimen>
+
+    <!-- 常用dip大小 -->
+    <dimen name="dip_0">0dip</dimen>
+    <dimen name="dip_0.5">0.5dip</dimen>
+    <dimen name="dip_1">1dip</dimen>
+    <dimen name="dip_2">2dip</dimen>
+    <dimen name="dip_3">3dip</dimen>
+    <dimen name="dip_4">4dip</dimen>
+    <dimen name="dip_5">5dip</dimen>
+    <dimen name="dip_6">6dip</dimen>
+    <dimen name="dip_7">7dip</dimen>
+    <dimen name="dip_8">8dip</dimen>
+    <dimen name="dip_9">9dip</dimen>
+    <dimen name="dip_10">10dip</dimen>
+    <dimen name="dip_12">12dip</dimen>
+    <dimen name="dip_15">15dip</dimen>
+    <dimen name="dip_17">17dip</dimen>
+    <dimen name="dip_20">20dip</dimen>
+    <dimen name="dip_25">25dip</dimen>
+    <dimen name="dip_30">30dip</dimen>
+    <dimen name="dip_35">35dip</dimen>
+    <dimen name="dip_40">40dip</dimen>
+    <dimen name="dip_45">45dip</dimen>
+    <dimen name="dip_50">50dip</dimen>
+    <dimen name="dip_60">60dip</dimen>
+    <dimen name="dip_70">70dip</dimen>
+    <dimen name="dip_80">80dip</dimen>
+    <dimen name="dip_90">90dip</dimen>
+    <dimen name="dip_99">99dip</dimen>
+    <dimen name="dip_100">100dip</dimen>
+    <dimen name="dip_110">110dip</dimen>
+    <dimen name="dip_120">120dip</dimen>
+    <dimen name="dip_130">130dip</dimen>
+    <dimen name="dip_160">160dip</dimen>
+    <dimen name="dip_180">180dip</dimen>
+    <dimen name="dip_185">185dip</dimen>
+    <dimen name="dip_200">200dip</dimen>
+    <dimen name="dip_210">210dip</dimen>
+    <dimen name="dip_230">230dip</dimen>
+    <dimen name="dip_250">250dip</dimen>
+
+</resources>
